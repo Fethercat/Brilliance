@@ -10,7 +10,7 @@
 	"contact": {
 		"sources": "https://github.com/Fethercat/Brilliance"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/brilliance/icon.png",
 	"environment": "*",
 	"entrypoints": {

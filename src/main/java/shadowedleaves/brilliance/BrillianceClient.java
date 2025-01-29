@@ -17,7 +17,7 @@ public class BrillianceClient implements ClientModInitializer {
     private static KeyBinding toggleNightVisionKey;
 
     private static final TextColor BRILLIANCE_COLOR = TextColor.fromRgb(0xFFFF00); // Yellow
-    private static final TextColor LIGHT_YELLOW_COLOR = TextColor.fromRgb(0xFFFFE0); // Lighter Yellow
+    private static final TextColor LIGHT_YELLOW_COLOR = TextColor.fromRgb(0xFFFF6E); // Light Yellow
     private static final TextColor GREEN_COLOR = TextColor.fromRgb(0x00FF00); // Green
     private static final TextColor RED_COLOR = TextColor.fromRgb(0xFF0000); // Red
 

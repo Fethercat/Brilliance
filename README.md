@@ -6,10 +6,11 @@ This mod adjusts the brightness of the game! **Currently only adds night vision 
 
 ### Supported Versions
 
+- 1.21.1
 - 1.21
 - 1.20.4
 
-**This mod will be updated to 1.21.1 soon!**
+**This mod will be updated to 1.21.2 soon!**
 
 ---
 
@@ -30,6 +31,11 @@ Feel free to message me to ask a question or suggest a new feature!
 ---
 
 ### Extra Info
+
+Supported Languages:
+
+- English
+- German (Thanks to Lucanoria!)
 
 Github Repository: [Source Code](https://github.com/Fethercat/Brilliance)
 

@@ -35,6 +35,7 @@ Feel free to message me to ask a question or suggest a new feature!
 Supported Languages:
 
 - English
+- Spanish (Thanks to [xNexusACS](https://github.com/xNexusACS)!)
 - German (Thanks to [Lucanoria](https://github.com/Lucanoria)!)
 
 Github Repository: [Source Code](https://github.com/Fethercat/Brilliance)

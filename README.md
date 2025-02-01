@@ -11,7 +11,7 @@ This mod adjusts the brightness of the game! **Currently only adds night vision 
 - 1.21
 - 1.20.4
 
-**This mod will be updated to 1.21.2 soon!**
+**This mod will be updated to 1.21.3 soon!**
 
 ---
 

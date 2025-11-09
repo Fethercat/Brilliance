@@ -1,6 +1,6 @@
 # Brilliance
 
-This mod adjusts the brightness of the game! **Currently only adds night vision to the player, this will be changed in the near future.**
+This mod allows a player to toggle Night Vision to see in the dark!
 
 ---
 
@@ -11,7 +11,7 @@ This mod adjusts the brightness of the game! **Currently only adds night vision 
 - 1.21
 - 1.20.4
 
-**This mod will be updated to 1.21.3 soon!**
+**Support for this project has been discontinued.**
 
 ---
 
@@ -27,7 +27,7 @@ Press "N" to toggle night vision.
 
 Discord: shadowedleaves_
 
-Feel free to message me to ask a question or suggest a new feature!
+~~Feel free to message me to ask a question or suggest a new feature!~~
 
 ---
 
